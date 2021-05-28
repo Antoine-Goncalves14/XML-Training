@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:event id="141010" xmlns:tns="http://www.eventmanagement.com/event" xmlns:tns1="http://www.eventmanagement.com/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.eventmanagement.com/event event.xsd">
+<tns:name>tns:name</tns:name>
+<tns:description></tns:description>
+<tns:ticketPrice>1</tns:ticketPrice>
+<tns:startTime>2001-12-31T12:00:00</tns:startTime>
+<tns:endTime>2001-12-31T12:00:00</tns:endTime>
+<tns:organizer id="141010">
+    <tns:name>Goncalves</tns:name>
+    <tns:email>gonc@email.com</tns:email>
+    <tns:phone>0645832833</tns:phone>
+</tns:organizer>
+<tns:venue id="141010">
+    <tns:name>Stade Léo Lagrange</tns:name>
+    <tns:street>Rue Louis Dal</tns:street>
+    <tns:city>Annoeulin</tns:city>
+    <tns:state>Nord</tns:state>
+    <tns:country>FR</tns:country>
+    <tns:zipcode>59112</tns:zipcode>
+</tns:venue>
+<tns:participant id="141010">
+    <tns:name>Antoine</tns:name>
+    <tns:email>ant@email.com</tns:email>
+    <tns:phone>0645352833</tns:phone>
+</tns:participant>
+<tns:participant id="141010">
+    <tns:name>Kelly</tns:name>
+    <tns:email>anté@email.com</tns:email>
+    <tns:phone>0623562833</tns:phone>
+</tns:participant>
+<tns:participant id="141010">
+    <tns:name>Léon</tns:name>
+    <tns:email>ant"@email.com</tns:email>
+    <tns:phone>0645356676</tns:phone>
+</tns:participant>
+</tns:event>
