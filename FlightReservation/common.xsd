@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="http://www.goncalvesairlines.com/Reservation"
+	xmlns:tns="http://www.goncalvesairlines.com/Reservation">
+	<simpleType name="stringMax20">
+		<restriction base="string">
+			<maxLength value="20"/>
+		</restriction>
+	</simpleType>
+</schema>
