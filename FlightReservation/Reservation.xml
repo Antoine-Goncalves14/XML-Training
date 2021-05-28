@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:reservation
+    xmlns:tns="http://www.goncalvesairlines.com/Reservation"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.goncalvesairlines.com/Reservation reservation.xsd">
+    <flight>
+        <flightNumber>fligdddddddddddddhtN</flightNumber>
+        <operatingAirlines>FR</operatingAirlines>
+        <arrivalCity>arri</arrivalCity>
+        <dateOfDeparture>2001-01-01</dateOfDeparture>
+        <estimatedTimeOfDeparture>12:00:00</estimatedTimeOfDeparture>
+    </flight>
+    <passenger>
+        <lastName>las</lastName>
+        <firstName>fir</firstName>
+        <middleName>md</middleName>
+        <email>me</email>
+        <phone>1234567898</phone>
+    </passenger>
+</tns:reservation>
