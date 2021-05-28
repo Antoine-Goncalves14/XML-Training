@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-16" standalone="no"?>
+<!-- This xml documents holds the license information. -->
+<DriversLicence status="suspended">
+    <Number>1234</Number>
+    <FirstName>Antoine</FirstName>
+    <LastName>Goncalves</LastName>
+    <!--<DateOfBirth>02/august/1996</DateOfBirth>-->
+    <VehicleType>Car</VehicleType>
+    <DateOfIssue>14/november/2020</DateOfIssue>
+    <![CDATA[ 
+    <DateOfIssue>14/november/2020</DateOfIssue>
+    ]]>
+    <!-- For Citizens it is 4 years and for visa holders it is the visa expiry
+        date -->
+    <ExpirtyDate>14/november/2023</ExpirtyDate>
+    <Photo location="servernale/filename" />
+
+    <Adress>
+        <street>Louis Dal</street>
+        <city>Annoeullin</city>
+        <state>Nord</state>
+        <country>FR</country>
+        <zipcode>141010</zipcode>
+    </Adress>
+</DriversLicence>
